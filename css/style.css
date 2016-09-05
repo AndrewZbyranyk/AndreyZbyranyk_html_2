@@ -1,0 +1,33 @@
+body{
+  background-color: #f1f3f3;
+  font-family: arial sans-serif;
+}
+.wrapper
+{
+  width: 600px;
+  margin: 0 auto;;
+}
+h1{
+  text-align: center;
+  text-transform: uppercase;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+  border: 1px solid gray;
+}
+.intro{
+  color: #49494a;
+  font-size: 20px;
+  margin-left: 0;
+}
+p{
+  margin-left: 30px;
+}
+div {
+  border-top: 1px solid gray;
+}
+.face, .wrapper{
+  border-top: none;
+}
